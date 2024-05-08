@@ -1,5 +1,5 @@
 {
-  "homepage":"https://github.io/Kratus10/My-altschool-assessment",
+  "homepage": "https://kratus10.github.io/My-altschool-assessment/",
   "name": "my-altschool-assessment",
   "private": true,
   "version": "0.0.0",
@@ -13,6 +13,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "firebase": "^10.11.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.23.0"

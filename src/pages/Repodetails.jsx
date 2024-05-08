@@ -37,7 +37,7 @@ function RepoDetails() {
   return (
     <div id="repodetail">
         <div className="repodetail-card">
-            <h2 className="repo-name">{details.name}</h2>
+            <h2 className="repo-name">This repo: {details.name}</h2>
             <div className="repo-mini-details">
               <p><FaRegStar className="icons" /> Stars: {details.stargazers_count}</p>
               <p><FaRegEye className="icons" /> Watch: {details.watchers}</p>
